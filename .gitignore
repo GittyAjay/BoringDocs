@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+notes/
+
+# vendored Python font-builder (HandFonted) and its venv/output
+handfonted/.venv/
+handfonted/__pycache__/
+handfonted/**/__pycache__/
+handfonted/output/
+handfonted/tmp/
